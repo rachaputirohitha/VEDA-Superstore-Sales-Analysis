@@ -87,3 +87,7 @@ No artificial data was added to the dataset.
 
 This project was completed as part of a **Data Analytics Internship Task** to demonstrate practical skills in data cleaning, analysis, visualization, and dashboard development using Excel and Power BI.
 
+## Dashboard
+<img width="1230" height="678" alt="Intern1" src="https://github.com/user-attachments/assets/88311181-f25c-4f14-9923-a5e9c39c9026" />
+
+
